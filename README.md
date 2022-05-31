@@ -1,2 +1,1 @@
-# ZombiesBeta
-Juego Gael 
+# Zombie-Shooter-stage-1
